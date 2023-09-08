@@ -48,7 +48,7 @@ Inicio
       Si (A - A2 < 0.0001)
      Escribir ("La raíz cuadrada de n con un margen de error de 0.0001 es A2)
 
-     Sino A = A2
+     Sino A = A2  --> Volver a aplicar la fórmula
 
  Sino escribir ("No se puede calcular la raíz cuadrada")
  Fin mientras
