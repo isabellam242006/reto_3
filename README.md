@@ -10,7 +10,8 @@ Para encontrar los números primos hasta un número n y para sacar la raíz cuad
 
 ## Diagrama de flujo para encontrar los números primos hasta n:
 
-![image](https://github.com/isabellam242006/reto_4/assets/142249384/d08b6160-eb16-4efc-b7a1-be89958149f6)
+![raíces(2) drawio](https://github.com/isabellam242006/reto_3/assets/142249384/cad9f418-bcbf-4b3d-a613-e8ed9ff9b530)
+
 
 ##  Pseudocódigo
 
@@ -33,7 +34,8 @@ Fin
 
 ## Diagrama de flujo para encontrar la raíz cuadrada de cualquier número n
 
-![image](https://github.com/isabellam242006/reto_4/assets/142249384/33786dd7-284e-42ad-b9c2-35ee23bfe95a)
+![raíces de un número drawio](https://github.com/isabellam242006/reto_3/assets/142249384/70739680-0499-4833-b1e4-ed2d97fec815)
+
 
 ## Pseudocódigo (Utilizando el método Newton Raphson)
 
